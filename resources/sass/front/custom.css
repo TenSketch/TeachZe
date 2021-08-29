@@ -1,0 +1,47 @@
+.pgm-card-title {
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    line-height: 1.3;
+    letter-spacing: -.02rem;
+}
+
+.header.scrolled .header-section {
+    box-shadow: 0 2px 16px 0 rgb(0 0 0 / 10%);
+}
+
+.navbar-brand {
+    padding: 0;
+}
+
+.navbar-brand, .navbar-brand > img {
+    width: 11rem;
+}
+
+@media (max-width: 1200px) {
+    .navbar-expand-xl .navbar-brand, .navbar-expand-xl .navbar-brand > img {
+        width: 11rem;
+    }
+}
+
+@media (max-width: 992px) {
+    .navbar-expand-xl .navbar-brand, .navbar-expand-xl .navbar-brand > img {
+        width: 8rem;
+    }
+}
+
+.wh-svg-icon {
+    margin-bottom: 0 !important;
+}
+
+#wa-widget-send-button {
+    right: 60px !important;
+    margin-bottom: 40px !important;
+}
+
+#navBar ul.navbar-nav li a, .header-section .nav a.nav-link {
+    font-weight: 600;
+}
