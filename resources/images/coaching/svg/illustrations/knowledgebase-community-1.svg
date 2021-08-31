@@ -11,10 +11,10 @@
 	.st5{fill:#FFFFFF;stroke:#E7EAF3;stroke-width:4;stroke-miterlimit:10;}
 	.st6{fill:#E7EAF3;}
 	.st7{fill:#FFFFFF;}
-	.st8{opacity:0.4;fill:none;stroke:#feb607;stroke-width:5;stroke-miterlimit:10;enable-background:new    ;}
-	.st9{fill:#feb607;}
-	.st10{opacity:0.7;fill:#feb607;enable-background:new    ;}
-	.st11{opacity:0.3;fill:#feb607;enable-background:new    ;}
+	.st8{opacity:0.4;fill:none;stroke:hsla(198, 76%, 52%, 1);stroke-width:5;stroke-miterlimit:10;enable-background:new    ;}
+	.st9{fill:hsla(198, 76%, 52%, 1);}
+	.st10{opacity:0.7;fill:hsla(198, 76%, 52%, 1);enable-background:new    ;}
+	.st11{opacity:0.3;fill:hsla(198, 76%, 52%, 1);enable-background:new    ;}
 	.st12{fill:#09385B;}
 	.st13{stroke:#FFFFFF;stroke-width:4;stroke-miterlimit:10;}
 	.st14{fill:#1E2022;}
@@ -151,7 +151,7 @@
 
 			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1168.0063" y1="533.5517" x2="1168.0063" y2="534.3727" gradientTransform="matrix(31.543 0 0 -55.881 -36534.0234 30515.502)">
 			<stop  offset="0" style="stop-color:#8DC6D5;stop-opacity:0"/>
-			<stop  offset="1" style="stop-color:#feb607;stop-opacity:0.3"/>
+			<stop  offset="1" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.3"/>
 		</linearGradient>
 		<path class="st17" d="M298.2,664.7c5.5-4.2,21.9-18.5,26-20.5c-7.1,14.2-13.8,42.8-13.8,55.9c-6.2-4-12.1-8.4-17.8-13.1
 			C292.7,674.9,294.5,667.4,298.2,664.7z"/>
@@ -208,7 +208,7 @@
 		c5.6-33.1-38.6-78.6-52.6-90s-92.6-60.5-106-75.3C435,612.5,337.8,592.9,325.4,610.5z"/>
 
 		<linearGradient id="Mask_Path-6_1_" gradientUnits="userSpaceOnUse" x1="1944.1426" y1="516.1731" x2="1943.8605" y2="515.8381" gradientTransform="matrix(316.7008 0 0 -215.9531 -615168.0625 112111.6641)">
-		<stop  offset="0" style="stop-color:#feb607;stop-opacity:0.5"/>
+		<stop  offset="0" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.5"/>
 		<stop  offset="1" style="stop-color:#282828;stop-opacity:0"/>
 	</linearGradient>
 	<path id="Mask_Path-6" class="st23" d="M325.4,610.5c-12.4,17.6-16.2,47.4-7.8,67.9c7.4,18.2,36.6,38.2,43,40.9
@@ -225,7 +225,7 @@
 
 		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="1937.8901" y1="537.6704" x2="1938.2402" y2="537.9913" gradientTransform="matrix(163.068 0 0 -48.6011 -315657.75 26873.2988)">
 		<stop  offset="0" style="stop-color:#8DC6D5;stop-opacity:0"/>
-		<stop  offset="1" style="stop-color:#feb607;stop-opacity:0.3"/>
+		<stop  offset="1" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.3"/>
 	</linearGradient>
 	<path class="st25" d="M290.6,714.7c3.8,17.6,22.1,31.7,55,42.4c49.3,16,97.8-4.3,108.1,0c-16.7-5.4-59.1-17.6-93.4-37.6
 		C348.4,719.5,325.1,717.9,290.6,714.7z"/>
@@ -291,31 +291,31 @@
 		c-6.2,8.3-18.7,23.8-24.7,28.3C598.4,407.2,567.4,372,574.7,365.9z"/>
 
 		<linearGradient id="shirt_bottom_2_" gradientUnits="userSpaceOnUse" x1="298.3219" y1="-223.1372" x2="468.4" y2="-223.1372" gradientTransform="matrix(1 0 0 1 0 856)">
-		<stop  offset="0" style="stop-color:#feb607;stop-opacity:0.6"/>
-		<stop  offset="0.208" style="stop-color:#feb607;stop-opacity:0.3"/>
-		<stop  offset="0.495" style="stop-color:#feb607;stop-opacity:0.1"/>
-		<stop  offset="0.826" style="stop-color:#feb607;stop-opacity:0.1"/>
-		<stop  offset="1" style="stop-color:#feb607;stop-opacity:0"/>
+		<stop  offset="0" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.6"/>
+		<stop  offset="0.208" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.3"/>
+		<stop  offset="0.495" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.1"/>
+		<stop  offset="0.826" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.1"/>
+		<stop  offset="1" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0"/>
 	</linearGradient>
 	<path id="shirt_bottom_1_" class="st32" d="M306.3,611.8c-3.8,16.3-6.4,26.4-7.9,30.1c-2.2,5.6,42.4,12.5,91,12
 		c42-0.4,70.9-5.2,79-11c-7.8-7-9.8-13.1-10.8-17.5C449.9,616.4,399.4,611.8,306.3,611.8z"/>
 
 		<linearGradient id="colar_2_" gradientUnits="userSpaceOnUse" x1="385.1992" y1="-506.0592" x2="439.8444" y2="-506.0592" gradientTransform="matrix(1 0 0 1 0 856)">
-		<stop  offset="0" style="stop-color:#feb607;stop-opacity:0.6"/>
-		<stop  offset="0.208" style="stop-color:#feb607;stop-opacity:0.3"/>
-		<stop  offset="0.495" style="stop-color:#feb607;stop-opacity:0.1"/>
-		<stop  offset="0.826" style="stop-color:#feb607;stop-opacity:0.1"/>
-		<stop  offset="1" style="stop-color:#feb607;stop-opacity:0"/>
+		<stop  offset="0" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.6"/>
+		<stop  offset="0.208" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.3"/>
+		<stop  offset="0.495" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.1"/>
+		<stop  offset="0.826" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.1"/>
+		<stop  offset="1" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0"/>
 	</linearGradient>
 	<path id="colar_1_" class="st33" d="M390.4,328.3c9.8,2.5,32.8,6.1,37.5,6.1c4.7-0.1,12.5,34,12,37s-46.3-13.5-49.5-17.4
 		C387.2,350,380.5,325.8,390.4,328.3z"/>
 
 		<linearGradient id="shirt_sleeve_2_" gradientUnits="userSpaceOnUse" x1="573.5941" y1="-484.8724" x2="629.9977" y2="-484.8724" gradientTransform="matrix(1 0 0 1 0 856)">
-		<stop  offset="0" style="stop-color:#feb607;stop-opacity:0.6"/>
-		<stop  offset="0.208" style="stop-color:#feb607;stop-opacity:0.3"/>
-		<stop  offset="0.495" style="stop-color:#feb607;stop-opacity:0.1"/>
-		<stop  offset="0.826" style="stop-color:#feb607;stop-opacity:0.1"/>
-		<stop  offset="1" style="stop-color:#feb607;stop-opacity:0"/>
+		<stop  offset="0" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.6"/>
+		<stop  offset="0.208" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.3"/>
+		<stop  offset="0.495" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.1"/>
+		<stop  offset="0.826" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.1"/>
+		<stop  offset="1" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0"/>
 	</linearGradient>
 	<path id="shirt_sleeve_1_" class="st34" d="M574.7,365.9c7.3-6.2,17.5-18.4,23.2-25.7c5.7-7.3,37.5,25.9,31.3,34.2
 		c-6.2,8.3-18.7,23.8-24.7,28.3C598.4,407.2,567.4,372,574.7,365.9z"/>

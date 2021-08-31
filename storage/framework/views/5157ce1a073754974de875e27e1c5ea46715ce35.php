@@ -5,13 +5,13 @@
                 <div class="col-lg-3 ml-lg-auto mb-5 mb-lg-0">
                     <div class="mb-4">
                         <a href="<?php echo e(route('index')); ?>" aria-label="Front">
-                            <img src="/images/logos/logo-footer.png" alt="21kclass.com" width="176">
+                            <img src="<?php echo e(asset('/images/logos/TeachZe_logo-footer.png')); ?>" alt="21kclass.com" width="176">
                         </a>
                     </div>
 
                     <ul class="nav nav-sm nav-x-0 nav-white flex-column">
                         <li class="nav-item">
-                            <div class="text-white-70 font-size-1">
+                            <div class="text-dark font-size-1">
                                 <span class="media">
                                   <span class="fas fa-location-arrow mt-1 mr-2"></span>
                                   <span class="media-body">
@@ -34,17 +34,17 @@
                 </div>
 
                 <div class="col-6 col-md-3 col-lg mb-5 mb-lg-0">
-                    <h5 class="text-white font-size-1 text-cap">About Us</h5>
+                    <h5 class="text-dark font-size-1 text-cap">About Us</h5>
 
                     <ul class="nav nav-sm nav-x-0 nav-white flex-column">
-                        <li class="nav-item"><a class="nav-link" href="<?php echo e(route('coaching.about-us.21k-group')); ?>">21K Group</a></li>
+                        <li class="nav-item"><a class="nav-link" href="<?php echo e(route('coaching.about-us.21k-group')); ?>">TeachZe Team</a></li>
                         <li class="nav-item"><a class="nav-link" href="<?php echo e(route('coaching.about-us.our-team')); ?>">Team</a></li>
                         <li class="nav-item"><a class="nav-link" href="<?php echo e(route('coaching.connect.work-with-us')); ?>">Careers <span class="badge badge-primary ml-1">We're hiring</span></a></li>
                     </ul>
                 </div>
 
                 <div class="col-6 col-md-3 col-lg mb-5 mb-lg-0">
-                    <h5 class="text-white font-size-1 text-cap">Admissions</h5>
+                    <h5 class="text-dark font-size-1 text-cap">Admissions</h5>
 
                     <ul class="nav nav-sm nav-x-0 nav-white flex-column">
                         <li class="nav-item"><a class="nav-link" href="<?php echo e(route('coaching.admission.how-to-apply')); ?>">How to Apply?</a></li>
@@ -54,7 +54,7 @@
                 </div>
 
                 <div class="col-6 col-md-3 col-lg">
-                    <h5 class="text-white font-size-1 text-cap">#Being21K</h5>
+                    <h5 class="text-dark font-size-1 text-cap">#Being21K</h5>
 
                     <ul class="nav nav-sm nav-x-0 nav-white flex-column">
                         <li class="nav-item"><a class="nav-link" href="<?php echo e(route('coaching.being21k.student-work')); ?>">Student Work</a></li>
@@ -66,7 +66,7 @@
                 </div>
 
                 <div class="col-6 col-md-3 col-lg">
-                    <h5 class="text-white font-size-1 text-cap">Resources</h5>
+                    <h5 class="text-dark font-size-1 text-cap">Resources</h5>
 
                     <ul class="nav nav-sm nav-x-0 nav-white flex-column">
                         <li class="nav-item">
@@ -138,7 +138,7 @@
             </div>
 
             <div class="w-md-75 text-lg-center mx-lg-auto">
-                <p class="text-white opacity-sm small">TeachZe &copy; <?php echo e(date('Y')); ?>. All rights reserved.</p>
+                <p class="text-dark opacity-sm small">TeachZe &copy; <?php echo e(date('Y')); ?>. All rights reserved.</p>
             </div>
         </div>
     </div>

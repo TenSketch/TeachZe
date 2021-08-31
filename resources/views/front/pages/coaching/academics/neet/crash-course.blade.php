@@ -9,7 +9,7 @@
             <div class="container space-2 space-sm-3 space-md-4 min-vw-100" style="background-color: rgba(0, 0, 0, 0.45);">
                 <div class="w-xs-auto text-center">
                     <div class="mb-4">
-                        <h2 class="h1 text-white">21K NEET Crash Course</h2>
+                        <h2 class="h1 text-white">TeachZe NEET Crash Course</h2>
                     </div>
                 </div>
             </div>

@@ -52,7 +52,7 @@
 	.st46{fill:#FFFFFF;}
 	.st47{fill:#223762;}
 	.st48{fill:url(#hand-2_1_);}
-	.st49{fill:#feb607;}
+	.st49{fill:hsla(198, 76%, 52%, 1);}
 	.st50{clip-path:url(#SVGID_18_);}
 	
 		.st51{opacity:0.2;fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:square;stroke-miterlimit:10;enable-background:new    ;}
@@ -699,7 +699,7 @@
 			
 				<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="1092.4529" y1="241.3694" x2="1092.4529" y2="241.7536" gradientTransform="matrix(31.543 0 0 -55.881 -34271.4219 13988.4053)">
 				<stop  offset="0" style="stop-color:#8DC6D5;stop-opacity:0"/>
-				<stop  offset="1" style="stop-color:#feb607;stop-opacity:0.3"/>
+				<stop  offset="1" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.3"/>
 			</linearGradient>
 			<path class="st34" d="M183,483.9c2.6-2,10.2-8.7,12.2-9.6c-3.3,6.6-6.5,20-6.5,26.2c-2.9-1.9-5.7-3.9-8.3-6.1
 				C180.5,488.6,181.3,485.1,183,483.9z"/>
@@ -756,7 +756,7 @@
 			c2.6-15.5-18.1-36.8-24.6-42.1c-6.6-5.3-43.3-28.3-49.6-35.2C374.8,459.4,329.3,450.3,323.5,458.5z"/>
 		
 			<linearGradient id="Mask_Path-6_1_" gradientUnits="userSpaceOnUse" x1="1869.9248" y1="223.6211" x2="1869.7928" y2="223.4644" gradientTransform="matrix(316.7008 0 0 -215.9531 -591781.1875 48765.1523)">
-			<stop  offset="0" style="stop-color:#feb607;stop-opacity:0.5"/>
+			<stop  offset="0" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.5"/>
 			<stop  offset="1" style="stop-color:#282828;stop-opacity:0"/>
 		</linearGradient>
 		<path id="Mask_Path-6" class="st39" d="M323.5,458.5c-5.8,8.2-7.6,22.2-3.6,31.8c3.5,8.5,17.1,17.9,20.1,19.1
@@ -773,7 +773,7 @@
 		
 			<linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="1864.1727" y1="245.9921" x2="1864.3365" y2="246.1422" gradientTransform="matrix(163.068 0 0 -48.6011 -303651.875 12475.4961)">
 			<stop  offset="0" style="stop-color:#8DC6D5;stop-opacity:0"/>
-			<stop  offset="1" style="stop-color:#feb607;stop-opacity:0.3"/>
+			<stop  offset="1" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.3"/>
 		</linearGradient>
 		<path class="st41" d="M307.2,507.3c1.8,8.2,10.3,14.8,25.7,19.8c23.1,7.5,45.8-2,50.6,0c-7.8-2.5-27.7-8.2-43.7-17.6
 			C334.2,509.5,323.3,508.8,307.2,507.3z"/>
@@ -862,31 +862,31 @@
 			C451.2,363.4,436.7,346.9,440.1,344.1z"/>
 		
 			<linearGradient id="shirt_bottom_2_" gradientUnits="userSpaceOnUse" x1="310.8008" y1="-497.022" x2="390.3854" y2="-497.022" gradientTransform="matrix(1 0 0 1 0 966)">
-			<stop  offset="0" style="stop-color:#feb607;stop-opacity:0.6"/>
-			<stop  offset="0.208" style="stop-color:#feb607;stop-opacity:0.3"/>
-			<stop  offset="0.495" style="stop-color:#feb607;stop-opacity:0.1"/>
-			<stop  offset="0.826" style="stop-color:#feb607;stop-opacity:0.1"/>
-			<stop  offset="1" style="stop-color:#feb607;stop-opacity:0"/>
+			<stop  offset="0" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.6"/>
+			<stop  offset="0.208" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.3"/>
+			<stop  offset="0.495" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.1"/>
+			<stop  offset="0.826" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.1"/>
+			<stop  offset="1" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0"/>
 		</linearGradient>
 		<path id="shirt_bottom_1_" class="st52" d="M314.5,459.1c-1.8,7.6-3,12.4-3.7,14.1c-1,2.6,19.8,5.8,42.6,5.6
 			c19.7-0.2,33.2-2.4,37-5.1c-3.6-3.3-4.6-6.1-5.1-8.2C381.7,461.3,358.1,459.1,314.5,459.1z"/>
 		
 			<linearGradient id="colar_3_" gradientUnits="userSpaceOnUse" x1="351.4533" y1="-629.4097" x2="377.0234" y2="-629.4097" gradientTransform="matrix(1 0 0 1 0 966)">
-			<stop  offset="0" style="stop-color:#feb607;stop-opacity:0.6"/>
-			<stop  offset="0.208" style="stop-color:#feb607;stop-opacity:0.3"/>
-			<stop  offset="0.495" style="stop-color:#feb607;stop-opacity:0.1"/>
-			<stop  offset="0.826" style="stop-color:#feb607;stop-opacity:0.1"/>
-			<stop  offset="1" style="stop-color:#feb607;stop-opacity:0"/>
+			<stop  offset="0" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.6"/>
+			<stop  offset="0.208" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.3"/>
+			<stop  offset="0.495" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.1"/>
+			<stop  offset="0.826" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.1"/>
+			<stop  offset="1" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0"/>
 		</linearGradient>
 		<path id="colar_1_" class="st53" d="M353.9,326.5c4.6,1.2,15.3,2.9,17.5,2.9c2.2,0,5.8,15.9,5.6,17.3c-0.2,1.4-21.7-6.3-23.2-8.1
 			C352.4,336.6,349.3,325.3,353.9,326.5z"/>
 		
 			<linearGradient id="shirt_sleeve_2_" gradientUnits="userSpaceOnUse" x1="439.6089" y1="-619.4958" x2="466.0019" y2="-619.4958" gradientTransform="matrix(1 0 0 1 0 966)">
-			<stop  offset="0" style="stop-color:#feb607;stop-opacity:0.6"/>
-			<stop  offset="0.208" style="stop-color:#feb607;stop-opacity:0.3"/>
-			<stop  offset="0.495" style="stop-color:#feb607;stop-opacity:0.1"/>
-			<stop  offset="0.826" style="stop-color:#feb607;stop-opacity:0.1"/>
-			<stop  offset="1" style="stop-color:#feb607;stop-opacity:0"/>
+			<stop  offset="0" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.6"/>
+			<stop  offset="0.208" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.3"/>
+			<stop  offset="0.495" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.1"/>
+			<stop  offset="0.826" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.1"/>
+			<stop  offset="1" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0"/>
 		</linearGradient>
 		<path id="shirt_sleeve_1_" class="st54" d="M440.1,344.1c3.4-2.9,8.2-8.6,10.9-12s17.5,12.1,14.6,16c-2.9,3.9-8.8,11.1-11.6,13.2
 			C451.2,363.4,436.7,346.9,440.1,344.1z"/>

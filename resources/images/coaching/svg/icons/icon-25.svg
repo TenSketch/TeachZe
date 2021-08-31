@@ -6,8 +6,8 @@
 	.icon-25-0{fill:none;stroke:#BDC5D1;}
 	.icon-25-1{fill:#BDC5D1;}
 	.icon-25-2{fill:#FFFFFF;}
-	.icon-25-3{fill:none;stroke:#feb607;}
-	.icon-25-4{fill:#feb607;stroke:#feb607;}
+	.icon-25-3{fill:none;stroke:hsla(198, 76%, 52%, 1);}
+	.icon-25-4{fill:hsla(198, 76%, 52%, 1);stroke:hsla(198, 76%, 52%, 1);}
 </style>
 <line class="icon-25-0 fill-none stroke-gray-400" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="43" y1="22" x2="43" y2="22"/>
 <ellipse transform="matrix(1.280544e-02 -0.9999 0.9999 1.280544e-02 -4.6111 134.7994)" class="icon-25-1 fill-gray-400" opacity=".5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="66" cy="69.7" rx="36.7" ry="36.7"/>

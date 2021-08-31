@@ -6,11 +6,11 @@
 	.farm-land-0{fill:#E7EAF3;}
   .farm-land-1{fill:#DE4437;}
   .farm-land-2{fill:#FFFFFF;}
-  .farm-land-3{fill:#feb607;}
+  .farm-land-3{fill:hsla(198, 76%, 52%, 1);}
   .farm-land-4{fill:#F8FAFD;}
   .farm-land-5{fill:#8C98A4;}
   .farm-land-6{fill:#BDC5D1;}
-  .farm-land-7{fill:#feb607;}
+  .farm-land-7{fill:hsla(198, 76%, 52%, 1);}
   .farm-land-8{fill:#00C9A7;}
   .farm-land-9{fill:none;}
   .farm-land-10{fill:#7C4635;}

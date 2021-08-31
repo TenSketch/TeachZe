@@ -9,8 +9,8 @@
             <div class="container space-2 space-sm-3 space-md-4 min-vw-100" style="background-color: rgba(0, 0, 0, 0.45);">
                 <div class="w-xs-auto text-center">
                     <div class="mb-4">
-                        <!--<h2 class="h1 text-white">21K NEET Comprehensive Course</h2>-->
-                        <h2 class="h1 text-white">21K NEET Full Power</h2>
+                        <!--<h2 class="h1 text-white">TeachZe NEET Comprehensive Course</h2>-->
+                        <h2 class="h1 text-white">TeachZe NEET Full Power</h2>
                     </div>
                 </div>
             </div>
@@ -24,8 +24,8 @@
             
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">
                 <p>Get in-depth knowledge of the subject as top NEET faculty teach and help you build conceptual understanding and its application.</p>
-                <p>21K NEET full power pack is the most comprehensive NEET coaching available in the country. The program is taught by 21K Experts who have helped thousands of students get scores above 600. This pack is perfect for students who are serious about cracking the NEET in their first attempt and get into their dream college - get subject matter expertise and learn tips and tricks on time management strategies and testing styles to boost your rank further.</p>
-                <p>Over the course of 2 years the student will get assistance with each topic across subjects and have access to 21K Experts for help with difficult topics and doubt solving.</p>
+                <p>TeachZe NEET full power pack is the most comprehensive NEET coaching available in the country. The program is taught by TeachZe Experts who have helped thousands of students get scores above 600. This pack is perfect for students who are serious about cracking the NEET in their first attempt and get into their dream college - get subject matter expertise and learn tips and tricks on time management strategies and testing styles to boost your rank further.</p>
+                <p>Over the course of 2 years the student will get assistance with each topic across subjects and have access to TeachZe Experts for help with difficult topics and doubt solving.</p>
             </div>
 
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">

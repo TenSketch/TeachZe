@@ -84,7 +84,7 @@
 <div class="table">
     <div class="table-cell">
         <div style="text-align:center;margin-bottom:20px">
-            <img src="/images/logos/logo-footer.png" alt="21kclass.com" width="176">
+            <img src="/images/logos/logo_TeachZe.png" alt="21kclass.com" width="176">
         </div>
         <div class="loader">
             <div class="bounce1"></div>

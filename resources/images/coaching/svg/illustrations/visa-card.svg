@@ -5,7 +5,7 @@
 <style type="text/css">
 	.visa-card-0{fill:#2D1582;}
 	.visa-card-1{fill:#FFFFFF;}
-	.visa-card-2{fill:#feb607;}
+	.visa-card-2{fill:hsla(198, 76%, 52%, 1);}
 </style>
 <g>
 	<path class="visa-card-0 fill-indigo" d="M1829.7,1811L46.3,1266.4c-31.8-9.7-49.8-43.4-40.1-75.3L343.2,87.6c9.7-31.8,43.4-49.8,75.3-40.1

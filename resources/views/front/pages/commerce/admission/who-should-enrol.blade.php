@@ -46,22 +46,22 @@
                 </thead>
                 <tbody>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K CA Foundation Extension Course</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe CA Foundation Extension Course</td>
                         <td class="font-size-1 bg-white text-center border-left">XII</td>
                         <td class="font-size-1 bg-white text-center border-left">1 Year</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K CA Foundation Comprehensive Course</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe CA Foundation Comprehensive Course</td>
                         <td class="font-size-1 bg-white text-center border-left">XI</td>
                         <td class="font-size-1 bg-white text-center border-left">2 Years</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K CA Foundation Crash Course</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe CA Foundation Crash Course</td>
                         <td class="font-size-1 bg-white text-center border-left">XII</td>
                         <td class="font-size-1 bg-white text-center border-left">2 Months</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K CA Foundation Test Series</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe CA Foundation Test Series</td>
                         <td class="font-size-1 bg-white text-center border-left">XII</td>
                         <td class="font-size-1 bg-white text-center border-left">4 Months</td>
                     </tr>

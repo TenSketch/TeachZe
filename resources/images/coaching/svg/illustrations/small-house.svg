@@ -6,11 +6,11 @@
 	.small-house-0{fill:#E7EAF3;}
   .small-house-1{fill:#DE4437;}
   .small-house-2{fill:#FFFFFF;}
-  .small-house-3{fill:#feb607;}
+  .small-house-3{fill:hsla(198, 76%, 52%, 1);}
   .small-house-4{fill:#F8FAFD;}
   .small-house-5{fill:#8C98A4;}
   .small-house-6{fill:#BDC5D1;}
-  .small-house-7{fill:#feb607;}
+  .small-house-7{fill:hsla(198, 76%, 52%, 1);}
 </style>
 <g>
 	<rect x="71.5" y="121.5" class="small-house-0 fill-gray-300" width="187.1" height="163.1"/>

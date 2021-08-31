@@ -23,7 +23,7 @@
             
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">
                 <p>Give your rank a boost by completing online mock tests. Get an instant performance report and live doubt solving session with JEE Experts.</p>
-                <p>This 4 month test series pack is ideal for students who have almost completed their syllabus and would now want to brush up on their exam skills. This set of test series will help you build speed and strategy required to perform well on exam day. The test series is developed by 21K JEE Experts who are responsible for helping hundreds of students each year crack JEE. Their students have regularly secured seats in IITs and other premium engineering colleges based on their JEE performance.</p>
+                <p>This 4 month test series pack is ideal for students who have almost completed their syllabus and would now want to brush up on their exam skills. This set of test series will help you build speed and strategy required to perform well on exam day. The test series is developed by TeachZe JEE Experts who are responsible for helping hundreds of students each year crack JEE. Their students have regularly secured seats in IITs and other premium engineering colleges based on their JEE performance.</p>
             </div>
 
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">

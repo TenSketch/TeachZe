@@ -32,7 +32,7 @@
 
 {{--                        <p class="font-size-1 text-dark">--}}
 {{--                            Popular topics:--}}
-{{--                            <span class="link text-info">21K NEET Test Series,</span>--}}
+{{--                            <span class="link text-info">TeachZe NEET Test Series,</span>--}}
 {{--                            <span class="link text-info ml-1">NEET Extension Course,</span>--}}
 {{--                            <span class="link text-info ml-1">NEET Comprehensive Course,</span>--}}
 {{--                            <span class="link text-info ml-1">CA Foundation Course</span>--}}

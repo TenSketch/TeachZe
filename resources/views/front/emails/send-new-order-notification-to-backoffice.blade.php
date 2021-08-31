@@ -109,7 +109,7 @@
     <div class="row">
         <div class="col-md-12" style="width:100%;margin: 0 auto">
             <p style="margin:10px 0 15px;text-align:center;border-bottom:1px solid #e0e0e0;padding-bottom:10px">
-                <img src="https://21kclass.com/images/logos/logo_TeachZe.png" alt="" width="176">
+                <img src="/images/logos/logo_TeachZe.png" alt="" width="176">
             </p>
             <p>Hi <b>Backoffice Team</b>, An order has been created!</p>
             <p>

@@ -9,7 +9,7 @@
             <div class="container space-2 space-sm-3 space-md-4 min-vw-100" style="background-color: rgba(0, 0, 0, 0.45);">
                 <div class="w-xs-auto text-center">
                     <div class="mb-4">
-                        <h2 class="h1 text-white">21K JEE Extension Course | Class XII</h2>
+                        <h2 class="h1 text-white">TeachZe JEE Extension Course | Class XII</h2>
                     </div>
                 </div>
             </div>
@@ -23,7 +23,7 @@
             
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">
                 <p>Secure top rank with TeachZe JEE Extension Pack. A 1 year program to get a competitive edge to crack the JEE .</p>
-                <p>JEE Extension Course is ideal for students of Class 12 who have one year to prepare for the Joint Entrance Examination. This is also good for students who have started their preparation but would want structured learning help from expert 21K faculty. The course is fast-paced and requires you to put in a lot of effort - our faculty helps you understand key concepts and works with you over important topics, testing and time management strategies and works with you to solve your doubts. </p>
+                <p>JEE Extension Course is ideal for students of Class 12 who have one year to prepare for the Joint Entrance Examination. This is also good for students who have started their preparation but would want structured learning help from expert TeachZe faculty. The course is fast-paced and requires you to put in a lot of effort - our faculty helps you understand key concepts and works with you over important topics, testing and time management strategies and works with you to solve your doubts. </p>
             </div>
 
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">

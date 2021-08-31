@@ -5,11 +5,11 @@
 <style type="text/css">
 	.multi-family-house-0{fill:#E7EAF3;}
   .multi-family-house-1{fill:#F8FAFD;}
-  .multi-family-house-2{fill:#feb607;}
+  .multi-family-house-2{fill:hsla(198, 76%, 52%, 1);}
   .multi-family-house-3{fill:#eaa200;}
   .multi-family-house-4{fill:#8C98A4;}
   .multi-family-house-5{fill:#BDC5D1;}
-  .multi-family-house-6{fill:#feb607;}
+  .multi-family-house-6{fill:hsla(198, 76%, 52%, 1);}
   .multi-family-house-7{fill:#DE4437;}
   .multi-family-house-8{fill:#FFFFFF;}
 </style>

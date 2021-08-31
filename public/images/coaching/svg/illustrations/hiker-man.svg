@@ -6,7 +6,7 @@
 	.hiker-man-0{fill:#E7EAF3;}
 	.hiker-man-1{fill:#F8FAFD;}
 	.hiker-man-2{fill:none;stroke:#1E2022;}
-	.hiker-man-3{fill:#feb607;}
+	.hiker-man-3{fill:hsla(198, 76%, 52%, 1);}
 	.hiker-man-4{fill:none;stroke:#FFFFFF;}
 </style>
 <g id="shadows">

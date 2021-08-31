@@ -11,7 +11,7 @@
                 <div class="card">
                     <div class="card-header position-relative d-block bg-primary space-1 space-md-2 p-4 px-md-7 px-md-9">
                         <h1 class="text-white">Shipping & Delivery Policy</h1>
-                        <p class="text-white-70">Contact us at hello@21kclass.com</p>
+                        <p class="text-dark-new">Contact us at hello@21kclass.com</p>
                         <figure class="position-absolute right-0 bottom-0 left-0 mb-n1">
                             <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
                                  viewBox="0 0 1920 100.1" width="100%" height="32">

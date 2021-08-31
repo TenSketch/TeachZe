@@ -8,8 +8,8 @@
 	.business-woman-2{fill:none;stroke:#1E2022;}
 	.business-woman-3{fill:#1E2022;}
 	.business-woman-4{fill:#FFFFFF;}
-	.business-woman-5{fill:#feb607;}
-	.business-woman-6{fill:none;stroke:#feb607;}
+	.business-woman-5{fill:hsla(198, 76%, 52%, 1);}
+	.business-woman-6{fill:none;stroke:hsla(198, 76%, 52%, 1);}
 	.business-woman-7{fill:none;stroke:#00C9A7;}
 </style>
 <g id="Shadows">

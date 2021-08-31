@@ -9,7 +9,7 @@
             <div class="container space-2 space-sm-3 space-md-4 min-vw-100" style="background-color: rgba(0, 0, 0, 0.45);">
                 <div class="w-xs-auto text-center">
                     <div class="mb-4">
-                        <h2 class="h1 text-white">21K CA Foundation Extension Course – Class XII</h2>
+                        <h2 class="h1 text-white">TeachZe CA Foundation Extension Course – Class XII</h2>
                     </div>
                 </div>
             </div>
@@ -18,7 +18,7 @@
 
         <div class="container space-top-1 space-top-lg-2 space-bottom-1 space-bottom-lg-2">
             <div class="w-lg-80 text-center mx-lg-auto mb-5">
-                <h2 class="mb-3 mb-lg-5">21K CA Foundation Extension Course – Class XII</h2>
+                <h2 class="mb-3 mb-lg-5">TeachZe CA Foundation Extension Course – Class XII</h2>
             </div>
 
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">

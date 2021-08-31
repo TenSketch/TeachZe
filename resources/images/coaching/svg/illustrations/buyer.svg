@@ -6,7 +6,7 @@
 	.buyer-0{fill:#F8FAFD;}
 	.buyer-1{fill:#19A0FF;}
 	.buyer-2{fill:#FFFFFF;}
-	.buyer-3{fill:none;stroke:#feb607;}
+	.buyer-3{fill:none;stroke:hsla(198, 76%, 52%, 1);}
 </style>
 <path class="buyer-0 fill-gray-200" d="M74.8,0.4C33.5,0.4,0,33.9,0,75.1c0,15,4.5,29,12.1,40.8h125.3c7.6-11.7,12.1-25.7,12.1-40.8
 	C149.5,33.9,116,0.4,74.8,0.4z"/>

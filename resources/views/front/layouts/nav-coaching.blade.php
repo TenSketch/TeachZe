@@ -60,7 +60,7 @@
                                                     <div class="list-group-item p-3">
                                                         <div class="media">
                                                             <div class="avatar avatar-lg mr-2">
-                                                                <img class="img img-fluid" src="{{ ($course['thumb']) ? asset('/storage/'.$course['thumb']) : '/images/logos/logo_TeachZe..png' }}" alt="{{ $course['name'] }}">
+                                                                <img class="img img-fluid" src="{{ ($course['thumb']) ? asset('/storage/'.$course['thumb']) : '/images/logos/logo_TeachZe.png' }}" alt="{{ $course['name'] }}">
                                                             </div>
                                                             <div class="media-body">
                                                                 <h6 class="mb-0 pgm-card-title">{{ $course['name'] }}</h6>
@@ -139,7 +139,7 @@
                                 <div id="aboutusSubMenu" class="hs-sub-menu dropdown-menu" aria-labelledby="aboutusMegaMenu" style="min-width: 230px;">
                                     <a class="dropdown-item{{ request()->routeIs('coaching.about-us.what-sets-us-apart') ?? true ? ' active' : '' }}" href="{{ route('coaching.about-us.what-sets-us-apart') }}">What sets us apart?</a>
                                     <a class="dropdown-item{{ request()->routeIs('coaching.about-us.values-and-ethos') ?? true ? ' active' : '' }}" href="{{ route('coaching.about-us.values-and-ethos') }}">Values & Ethos</a>
-                                    <a class="dropdown-item{{ request()->routeIs('coaching.about-us.21k-group') ?? true ? ' active' : '' }}" href="{{ route('coaching.about-us.21k-group') }}">21K Group</a>
+                                    <a class="dropdown-item{{ request()->routeIs('coaching.about-us.21k-group') ?? true ? ' active' : '' }}" href="{{ route('coaching.about-us.21k-group') }}">TeachZe Team</a>
                                     <a class="dropdown-item{{ request()->routeIs('coaching.about-us.our-team') ?? true ? ' active' : '' }}" href="{{ route('coaching.about-us.our-team') }}">Our Team</a>
                                     <a class="dropdown-item{{ request()->routeIs('coaching.about-us.policy-and-governance') ?? true ? ' active' : '' }}" href="{{ route('coaching.about-us.policy-and-governance') }}">Policy & Governance</a>
                                 </div>
@@ -152,23 +152,23 @@
                                     <div class="hs-has-sub-menu">
                                         <a id="navLinkNeetCoaching" class="hs-mega-menu-invoker dropdown-item dropdown-item-toggle {{ (request()->routeIs('coaching.academics.neet.*')) ?? true ? 'active' : '' }}" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuNeetCoaching">NEET Coaching</a>
                                         <div id="navSubmenuNeetCoaching" class="hs-sub-menu dropdown-menu hs-sub-menu-desktop-lg fadeOut animated" aria-labelledby="navLinkNeetCoaching" style="min-width: 230px; display: none; animation-duration: 300ms;">
-                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.neet.introduction') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.neet.introduction') }}">21K NEET Introduction</a>
-                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.neet.extension-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.neet.extension-course') }}">21K NEET Extension Course</a>
-                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.neet.comprehensive-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.neet.comprehensive-course') }}">21K NEET Comprehensive Course</a>
-                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.neet.crash-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.neet.crash-course') }}">21K NEET Crash Course</a>
-                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.neet.repeater-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.neet.repeater-course') }}">21K NEET Repeater Course </a>
-                                            <!--<a class="dropdown-item{{ request()->routeIs('coaching.academics.neet.test-series') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.neet.test-series') }}">21K NEET Test Series</a>-->
+                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.neet.introduction') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.neet.introduction') }}">TeachZe NEET Introduction</a>
+                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.neet.extension-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.neet.extension-course') }}">TeachZe NEET Extension Course</a>
+                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.neet.comprehensive-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.neet.comprehensive-course') }}">TeachZe NEET Comprehensive Course</a>
+                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.neet.crash-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.neet.crash-course') }}">TeachZe NEET Crash Course</a>
+                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.neet.repeater-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.neet.repeater-course') }}">TeachZe NEET Repeater Course </a>
+                                            <!--<a class="dropdown-item{{ request()->routeIs('coaching.academics.neet.test-series') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.neet.test-series') }}">TeachZe NEET Test Series</a>-->
                                         </div>
                                     </div>
 
                                     <div class="hs-has-sub-menu">
                                         <a id="navLinkJeeCoaching" class="hs-mega-menu-invoker dropdown-item dropdown-item-toggle {{ (request()->routeIs('coaching.academics.jee.*')) ?? true ? 'active' : '' }}" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuJeeCoaching">JEE Coaching</a>
                                         <div id="navSubmenuJeeCoaching" class="hs-sub-menu dropdown-menu hs-sub-menu-desktop-lg fadeOut animated" aria-labelledby="navLinkJeeCoaching" style="min-width: 230px; display: none; animation-duration: 300ms;">
-                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.jee.introduction') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.jee.introduction') }}">21K JEE Coaching</a>
-                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.jee.extension-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.jee.extension-course') }}">21K JEE Extension Course</a>
-                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.jee.comprehensive-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.jee.comprehensive-course') }}">21K JEE Comprehensive Course</a>
-                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.jee.crash-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.jee.crash-course') }}">21K JEE Crash Course</a>
-                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.jee.test-series') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.jee.test-series') }}">21K JEE Test Series </a>
+                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.jee.introduction') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.jee.introduction') }}">TeachZe JEE Coaching</a>
+                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.jee.extension-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.jee.extension-course') }}">TeachZe JEE Extension Course</a>
+                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.jee.comprehensive-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.jee.comprehensive-course') }}">TeachZe JEE Comprehensive Course</a>
+                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.jee.crash-course') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.jee.crash-course') }}">TeachZe JEE Crash Course</a>
+                                            <a class="dropdown-item{{ request()->routeIs('coaching.academics.jee.test-series') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.jee.test-series') }}">TeachZe JEE Test Series </a>
                                         </div>
                                     </div>
 
@@ -181,8 +181,8 @@
                                         </div>
                                     </div>
 
-                                    <a class="dropdown-item{{ request()->routeIs('coaching.academics.competitive-examination') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.competitive-examination') }}">21K Competitive Examination Practice Programs</a>
-                                    <a class="dropdown-item{{ request()->routeIs('coaching.academics.ce-test-series') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.ce-test-series') }}">21K CE Test Series</a>
+                                    <a class="dropdown-item{{ request()->routeIs('coaching.academics.competitive-examination') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.competitive-examination') }}">TeachZe Competitive Examination Practice Programs</a>
+                                    <a class="dropdown-item{{ request()->routeIs('coaching.academics.ce-test-series') ?? true ? ' active' : '' }}" href="{{ route('coaching.academics.ce-test-series') }}">TeachZe CE Test Series</a>
                                 </div>
                             </li>
 

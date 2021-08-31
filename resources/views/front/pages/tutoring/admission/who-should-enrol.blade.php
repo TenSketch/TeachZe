@@ -46,22 +46,22 @@
                 </thead>
                 <tbody>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K  Year Long Course IX & X - Science and Maths Combo</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe  Year Long Course IX & X - Science and Maths Combo</td>
                         <td class="font-size-1 bg-white text-center border-left">IX & X</td>
                         <td class="font-size-1 bg-white text-center border-left">1 Year</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K  Year Long Course IX & X – Individual Subject</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe  Year Long Course IX & X – Individual Subject</td>
                         <td class="font-size-1 bg-white text-center border-left">IX & X</td>
                         <td class="font-size-1 bg-white text-center border-left">1 Year</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K Year Long Course XI &XII - Science and Maths Combo</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe Year Long Course XI &XII - Science and Maths Combo</td>
                         <td class="font-size-1 bg-white text-center border-left">XI & XII</td>
                         <td class="font-size-1 bg-white text-center border-left">1 Year</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K Year Long Course XI & XII - Individual Subject</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe Year Long Course XI & XII - Individual Subject</td>
                         <td class="font-size-1 bg-white text-center border-left">XI & XII</td>
                         <td class="font-size-1 bg-white text-center border-left">1 Year</td>
                     </tr>

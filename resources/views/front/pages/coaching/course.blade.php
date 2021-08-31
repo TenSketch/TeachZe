@@ -5,7 +5,7 @@
     @include('front.layouts.nav-coaching')
 
     <div class="position-relative">
-        <div class="bg-dark space-2" style="background-image: url('/images/coaching/svg/components/abstract-shapes-20.svg');">
+        <div class="bg-dark bg-dark-new space-2" style="background-image: url('/images/coaching/svg/components/abstract-shapes-20.svg');">
             <div class="container">
                 <div class="row">
                     <div class="col-md-7 col-lg-8">
@@ -13,7 +13,7 @@
                             <small class="btn btn-xs btn-success btn-pill text-uppercase mb-2 rounded">New</small>
                         @endif
                         <h1 class="text-lh-sm text-white">{{ $course->name }}</h1>
-                        <p class="text-white-70">{{ $course->excerpt }}</p>
+                        <p class="text-white">{{ $course->excerpt }}</p>
 
                         <div class="d-flex align-items-center flex-wrap">
                             <ul class="list-inline mt-b2 mb-0 mr-2">

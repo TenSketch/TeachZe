@@ -139,7 +139,7 @@
                                 <div id="aboutusSubMenu" class="hs-sub-menu dropdown-menu" aria-labelledby="aboutusMegaMenu" style="min-width: 230px;">
                                     <a class="dropdown-item{{ request()->routeIs('tutoring.about-us.what-sets-us-apart') ?? true ? ' active' : '' }}" href="{{ route('tutoring.about-us.what-sets-us-apart') }}">What sets us apart?</a>
                                     <a class="dropdown-item{{ request()->routeIs('tutoring.about-us.values-and-ethos') ?? true ? ' active' : '' }}" href="{{ route('tutoring.about-us.values-and-ethos') }}">Values & Ethos</a>
-                                    <a class="dropdown-item{{ request()->routeIs('tutoring.about-us.21k-group') ?? true ? ' active' : '' }}" href="{{ route('tutoring.about-us.21k-group') }}">21K Group</a>
+                                    <a class="dropdown-item{{ request()->routeIs('tutoring.about-us.21k-group') ?? true ? ' active' : '' }}" href="{{ route('tutoring.about-us.21k-group') }}">TeachZe Team</a>
                                     <a class="dropdown-item{{ request()->routeIs('tutoring.about-us.our-team') ?? true ? ' active' : '' }}" href="{{ route('tutoring.about-us.our-team') }}">Our Team</a>
                                     <a class="dropdown-item{{ request()->routeIs('tutoring.about-us.policy-and-governance') ?? true ? ' active' : '' }}" href="{{ route('tutoring.about-us.policy-and-governance') }}">Policy & Governance</a>
                                 </div>

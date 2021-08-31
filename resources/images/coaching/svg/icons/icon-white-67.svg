@@ -5,9 +5,9 @@
 <style type="text/css">
 	.icon-white-67-0{fill:none;stroke:#FFFFFF;}
 	.icon-white-67-1{fill:#FFFFFF;}
-	.icon-white-67-2{fill:#feb607;stroke:#FFFFFF;}
-	.icon-white-67-3{fill:none;stroke:#feb607;}
-	.icon-white-67-4{fill:#feb607;}
+	.icon-white-67-2{fill:hsla(198, 76%, 52%, 1);stroke:#FFFFFF;}
+	.icon-white-67-3{fill:none;stroke:hsla(198, 76%, 52%, 1);}
+	.icon-white-67-4{fill:hsla(198, 76%, 52%, 1);}
 </style>
 <line class="icon-white-67-0 fill-none stroke-white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="103" y1="112.5" x2="103" y2="69.6"/>
 <line class="icon-white-67-0 fill-none stroke-white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="109.1" y1="69.6" x2="109.1" y2="112.5"/>

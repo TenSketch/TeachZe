@@ -185,7 +185,7 @@
                     <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
                         <div class="col-md-6 offset-md-3 mb-3 mb-md-0">
                             <h3 class="text-white mb-1">Got a question?</h3>
-                            <p class="text-white-70 mb-0">We'd love to talk about how we can help you.</p>
+                            <p class="text-dark-new mb-0">We'd love to talk about how we can help you.</p>
                         </div>
                         <div class="col-md-3 text-md-right">
                             <a class="btn btn-light transition-3d-hover" data-toggle="modal" data-target="#applyNow">Contact Us</a>

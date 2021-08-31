@@ -121,7 +121,7 @@
 
                             <figure class="position-absolute top-0 left-0" data-aos="fade-up" data-aos-delay="300">
                                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 335.2 335.2" width="120" height="120">
-                                    <circle fill="none" stroke="#FEB607" stroke-width="75" cx="167.6" cy="167.6" r="130.1"/>
+                                    <circle fill="none" stroke="hsla(198, 76%, 52%, 1)" stroke-width="75" cx="167.6" cy="167.6" r="130.1"/>
                                 </svg>
                             </figure>
 

@@ -9,8 +9,8 @@
 	.diversity-3{fill:#FFC107;}
 	.diversity-4{fill:none;stroke:#DE4437;stroke-width:11.8446;stroke-linecap:round;stroke-miterlimit:10;}
 	.diversity-5{fill:#DE4437;}
-	.diversity-6{fill:none;stroke:#feb607;stroke-width:11.8446;stroke-linecap:round;stroke-miterlimit:10;}
-	.diversity-7{fill:#feb607;}
+	.diversity-6{fill:none;stroke:hsla(198, 76%, 52%, 1);stroke-width:11.8446;stroke-linecap:round;stroke-miterlimit:10;}
+	.diversity-7{fill:hsla(198, 76%, 52%, 1);}
 </style>
 <polyline class="diversity-0" points="37.3,135.7 77.5,95.6 117.7,135.7 "/>
 <circle class="diversity-1" cx="77.5" cy="139.8" r="13.1"/>

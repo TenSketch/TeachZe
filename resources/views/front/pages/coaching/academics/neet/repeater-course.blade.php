@@ -9,7 +9,7 @@
             <div class="container space-2 space-sm-3 space-md-4 min-vw-100" style="background-color: rgba(0, 0, 0, 0.45);">
                 <div class="w-xs-auto text-center">
                     <div class="mb-4">
-                        <h2 class="h1 text-white">21K NEET Repeater Course</h2>
+                        <h2 class="h1 text-white">TeachZe NEET Repeater Course</h2>
                     </div>
                 </div>
             </div>
@@ -22,7 +22,7 @@
             </div>
             
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">
-                <p>Gain the edge and get the score your deserve with 21K NEET Expert Faculty. </p>
+                <p>Gain the edge and get the score your deserve with TeachZe NEET Expert Faculty. </p>
                 <p>Live Classes – Mock tests – Discussion Sessions – Live Doubt Solving</p>
                 <p>Cracking NEET in the first attempt and getting a score that will get you to your dream medical college is not easy. As there is no upper age limit for NEET many students give the exam more than once to improve their score. Our repeater course is focused on determined students looking to improve their scores.</p>
             </div>

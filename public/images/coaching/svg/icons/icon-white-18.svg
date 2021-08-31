@@ -5,7 +5,7 @@
 <style type="text/css">
 	.icon-white-18-0{fill:none;stroke:#FFFFFF;}
 	.icon-white-18-1{fill:#FFFFFF;}
-	.icon-white-18-2{fill:none;stroke:#feb607;}
+	.icon-white-18-2{fill:none;stroke:hsla(198, 76%, 52%, 1);}
 </style>
 <polygon class="icon-white-18-0 fill-none stroke-white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="71.3,78.1 97.6,78.1 100.6,85.3 68.2,85.3 "/>
 <g opacity=".5">

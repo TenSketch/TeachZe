@@ -5,8 +5,8 @@
 <style type="text/css">
 	.icon-white-58-0{fill:none;stroke:#BDC5D1;}
 	.icon-white-58-1{fill:#FFFFFF;}
-	.icon-white-58-2{fill:#feb607;stroke:#FFFFFF;}
-	.icon-white-58-3{fill:#feb607;}
+	.icon-white-58-2{fill:hsla(198, 76%, 52%, 1);stroke:#FFFFFF;}
+	.icon-white-58-3{fill:hsla(198, 76%, 52%, 1);}
 </style>
 <path class="icon-white-58-0 fill-none stroke-gray-400" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M98.4,118.1"/>
 <g>

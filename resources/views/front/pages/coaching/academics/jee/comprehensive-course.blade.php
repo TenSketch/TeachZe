@@ -9,7 +9,7 @@
             <div class="container space-2 space-sm-3 space-md-4 min-vw-100" style="background-color: rgba(0, 0, 0, 0.45);">
                 <div class="w-xs-auto text-center">
                     <div class="mb-4">
-                        <h2 class="h1 text-white">21K JEE Comprehensive Course</h2>
+                        <h2 class="h1 text-white">TeachZe JEE Comprehensive Course</h2>
                     </div>
                 </div>
             </div>
@@ -23,8 +23,8 @@
             
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">
                 <p>Get in-depth knowledge of the subject as top JEE faculty teach and help you get into top engineering colleges.</p>
-                <p>21K JEE Comprehensive Course is one of the most power-packed JEE coaching programs available in the country. The program is taught by 21K Experts who have helped thousands of students get into the top engineering colleges of the country.. This pack is perfect for students who are serious about cracking the JEE in their first attempt and get into their dream college - get subject matter expertise and learn tips and tricks on time management strategies and testing styles to boost your rank further. </p>
-                <p>Over the course of 2 years the student will get assistance with each topic across subjects and have access to 21K Experts for help with difficult topics and doubt solving.</p>
+                <p>TeachZe JEE Comprehensive Course is one of the most power-packed JEE coaching programs available in the country. The program is taught by TeachZe Experts who have helped thousands of students get into the top engineering colleges of the country.. This pack is perfect for students who are serious about cracking the JEE in their first attempt and get into their dream college - get subject matter expertise and learn tips and tricks on time management strategies and testing styles to boost your rank further. </p>
+                <p>Over the course of 2 years the student will get assistance with each topic across subjects and have access to TeachZe Experts for help with difficult topics and doubt solving.</p>
             </div>
 
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">

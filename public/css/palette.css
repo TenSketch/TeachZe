@@ -1,0 +1,16 @@
+/* Coolors Exported Palette - https://coolors.co/28a9e2-0462ea-5580e9-03cbfc */
+
+/* CSS HEX */
+--carolina-blue: #28a9e2ff;
+--flickr-blue: #0462eaff;
+--blue-crayola: #5580e9ff;
+--vivid-sky-blue: #03cbfcff;
+
+/* CSS HSL */
+:root {
+    --clr-primary: hsla(198, 76%, 52%, 1);
+    --clr-primary-light: hsla(198, 76%, 32%, 1);
+    --flickr-blue: hsla(215, 97%, 47%, 1);
+    --blue-crayola: hsla(223, 77%, 62%, 1);
+    --vivid-sky-blue: hsla(192, 98%, 50%, 1);
+}

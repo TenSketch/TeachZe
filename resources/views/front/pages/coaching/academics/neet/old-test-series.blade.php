@@ -156,7 +156,7 @@
 
                         <figure class="position-absolute top-0 left-0" data-aos="fade-up" data-aos-delay="300">
                             <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 335.2 335.2" width="120" height="120">
-                                <circle fill="none" stroke="#FEB607" stroke-width="75" cx="167.6" cy="167.6" r="130.1"/>
+                                <circle fill="none" stroke="hsla(198, 76%, 52%, 1)" stroke-width="75" cx="167.6" cy="167.6" r="130.1"/>
                             </svg>
                         </figure>
 
@@ -212,7 +212,7 @@
 
         <div class="container space-2">
             <div class="w-lg-50 text-center mx-lg-auto mb-10">
-                <h2>21K NEET Test Series 2021</h2>
+                <h2>TeachZe NEET Test Series 2021</h2>
             </div>
             <div class="row">
                 <div class="col-lg-6">
@@ -376,7 +376,7 @@
 
         <div class="container space-top-2">
             <div class="w-lg-50 text-center mx-lg-auto mb-5">
-                <h2>21K Test Series 2021</h2>
+                <h2>TeachZe Test Series 2021</h2>
             </div>
 
             <div class="table-responsive-lg w-lg-75 mx-lg-auto">
@@ -551,7 +551,7 @@
                         </span>
                             <div class="media-body">
                                 <h4 class="text-white mb-1">Week 1</h4>
-                                <p class="text-white-70 mb-0">Entry level full syllabus mock test.</p>
+                                <p class="text-dark-new mb-0">Entry level full syllabus mock test.</p>
                             </div>
                         </div>
 
@@ -562,7 +562,7 @@
                         </span>
                             <div class="media-body">
                                 <h4 class="text-white mb-1">Week 2 to 12</h4>
-                                <p class="text-white-70 mb-0">Chapter test (3 Chapter test per week).</p>
+                                <p class="text-dark-new mb-0">Chapter test (3 Chapter test per week).</p>
                             </div>
                         </div>
 
@@ -573,7 +573,7 @@
                         </span>
                             <div class="media-body">
                                 <h4 class="text-white mb-1">Week 13 to 15</h4>
-                                <p class="text-white-70 mb-0">Subject test (PCB One subject per week).</p>
+                                <p class="text-dark-new mb-0">Subject test (PCB One subject per week).</p>
                             </div>
                         </div>
 
@@ -584,7 +584,7 @@
                         </span>
                             <div class="media-body">
                                 <h4 class="text-white mb-1">Week 16</h4>
-                                <p class="text-white-70 mb-0">Exit level full syllabus mock test.</p>
+                                <p class="text-dark-new mb-0">Exit level full syllabus mock test.</p>
                             </div>
                         </div>
                     </div>
@@ -694,7 +694,7 @@
                         <article class="js-slide pt-2">
                             <div class="card bg-img-hero w-100 min-h-270rem transition-3d-hover" style="background-image: url('/images/coaching/400x500/img14.jpg');">
                                 <div class="card-body">
-                                    <span class="d-block small text-white-70 font-weight-bold text-cap mb-2">NEET</span>
+                                    <span class="d-block small text-dark-new font-weight-bold text-cap mb-2">NEET</span>
                                     <h3 class="text-white">NEET 2022 – One Year Course</h3>
                                 </div>
                             </div>
@@ -703,7 +703,7 @@
                         <article class="js-slide pt-2">
                             <div class="card bg-img-hero w-100 min-h-270rem transition-3d-hover" style="background-image: url('/images/coaching/400x500/img15.jpg');">
                                 <div class="card-body">
-                                    <span class="d-block small text-white-70 font-weight-bold text-cap mb-2">NEET</span>
+                                    <span class="d-block small text-dark-new font-weight-bold text-cap mb-2">NEET</span>
                                     <h3 class="text-white">NEET 2023 – Two Year Course</h3>
                                 </div>
                             </div>
@@ -712,7 +712,7 @@
                         <article class="js-slide pt-2">
                             <div class="card bg-img-hero w-100 min-h-270rem transition-3d-hover" style="background-image: url('/images/coaching/400x500/img16.jpg');">
                                 <div class="card-body">
-                                    <span class="d-block small text-white-70 font-weight-bold text-cap mb-2">JEE</span>
+                                    <span class="d-block small text-dark-new font-weight-bold text-cap mb-2">JEE</span>
                                     <h3 class="text-white">JEE 2022 – One Year Course</h3>
                                 </div>
                             </div>
@@ -721,7 +721,7 @@
                         <article class="js-slide pt-2">
                             <div class="card bg-img-hero w-100 min-h-270rem transition-3d-hover" style="background-image: url('/images/coaching/400x500/img18.jpg');">
                                 <div class="card-body">
-                                    <span class="d-block small text-white-70 font-weight-bold text-cap mb-2">JEE</span>
+                                    <span class="d-block small text-dark-new font-weight-bold text-cap mb-2">JEE</span>
                                     <h3 class="text-white">JEE 2023 – Two Year Course</h3>
                                 </div>
                             </div>

@@ -46,27 +46,27 @@
                 </thead>
                 <tbody>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K NEET Extension Course</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe NEET Extension Course</td>
                         <td class="font-size-1 bg-white text-center border-left">XII</td>
                         <td class="font-size-1 bg-white text-center border-left">1 Year</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K NEET Comprehensive Course</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe NEET Comprehensive Course</td>
                         <td class="font-size-1 bg-white text-center border-left">XI</td>
                         <td class="font-size-1 bg-white text-center border-left">2 Years</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K NEET Crash Course</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe NEET Crash Course</td>
                         <td class="font-size-1 bg-white text-center border-left">XII</td>
                         <td class="font-size-1 bg-white text-center border-left">4 Months</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K NEET Repeater Course</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe NEET Repeater Course</td>
                         <td class="font-size-1 bg-white text-center border-left">Students who took NEET Exam in 2021</td>
                         <td class="font-size-1 bg-white text-center border-left">1 Year</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K NEET Test Series</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe NEET Test Series</td>
                         <td class="font-size-1 bg-white text-center border-left">XII</td>
                         <td class="font-size-1 bg-white text-center border-left">4 Months</td>
                     </tr>
@@ -74,22 +74,22 @@
                         <td class="font-size-1 bg-white text-center text-dark" colspan="3"></td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K JEE Extension Course</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe JEE Extension Course</td>
                         <td class="font-size-1 bg-white text-center border-left">XII</td>
                         <td class="font-size-1 bg-white text-center border-left">1 Year</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K JEE Comprehensive Course</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe JEE Comprehensive Course</td>
                         <td class="font-size-1 bg-white text-center border-left">XI</td>
                         <td class="font-size-1 bg-white text-center border-left">2 Years</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K JEE Crash Course</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe JEE Crash Course</td>
                         <td class="font-size-1 bg-white text-center border-left">XII</td>
                         <td class="font-size-1 bg-white text-center border-left">4 Months</td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K JEE Test Series</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe JEE Test Series</td>
                         <td class="font-size-1 bg-white text-center border-left">XII</td>
                         <td class="font-size-1 bg-white text-center border-left">4 Months</td>
                     </tr>
@@ -110,7 +110,7 @@
                         <td class="font-size-1 bg-white text-center text-dark" colspan="3"></td>
                     </tr>
                     <tr class="border-top border-bottom">
-                        <td class="font-size-1 bg-white text-center text-dark">21K CE Test Series</td>
+                        <td class="font-size-1 bg-white text-center text-dark">TeachZe CE Test Series</td>
                         <td class="font-size-1 bg-white text-center border-left">XI and XII</td>
                         <td class="font-size-1 bg-white text-center border-left">4 Months</td>
                     </tr>

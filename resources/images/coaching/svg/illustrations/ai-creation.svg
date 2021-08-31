@@ -20,7 +20,7 @@
 	.ai-creation-14{fill:#19A0FF;}
 	.ai-creation-15{fill:url(#SVGID_5_);}
 	.ai-creation-16{fill:url(#SVGID_6_);}
-	.ai-creation-17{fill:#feb607;}
+	.ai-creation-17{fill:hsla(198, 76%, 52%, 1);}
 	.ai-creation-18{fill:#33218E;}
 	.ai-creation-19{opacity:0.15;}
 	.ai-creation-20{fill:#FFFFFF;}
@@ -61,7 +61,7 @@
 	.ai-creation-55{fill:url(#left-shadow_1_);}
 	.ai-creation-56{fill:#3BC1EA;}
 	.ai-creation-57{opacity:0.3;fill:url(#shadow_5_);enable-background:new    ;}
-	.ai-creation-58{opacity:0.15;fill:#feb607;enable-background:new    ;}
+	.ai-creation-58{opacity:0.15;fill:hsla(198, 76%, 52%, 1);enable-background:new    ;}
 	.ai-creation-59{fill:#62E0FA;}
 	.ai-creation-60{fill:url(#top_1_);}
 	.ai-creation-61{fill:url(#shadow_6_);}
@@ -212,7 +212,7 @@
 		<g>
 
 				<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="30.525" y1="30.9" x2="78.4246" y2="30.9" gradientTransform="matrix(1 0 0 -1 0 154)">
-				<stop  offset="3.299197e-07" style="stop-color:#feb607"/>
+				<stop  offset="3.299197e-07" style="stop-color:hsla(198, 76%, 52%, 1)"/>
 				<stop  offset="0.3149" style="stop-color:#345FDB"/>
 				<stop  offset="1" style="stop-color:#2D1582"/>
 			</linearGradient>
@@ -448,7 +448,7 @@
 
 			<linearGradient id="on-top-shadow_1_" gradientUnits="userSpaceOnUse" x1="104.7898" y1="64.5" x2="125.3957" y2="64.5" gradientTransform="matrix(1 0 0 -1 0 154)">
 			<stop  offset="3.299197e-07" style="stop-color:#FFFFFF;stop-opacity:0"/>
-			<stop  offset="1" style="stop-color:#feb607;stop-opacity:0.7"/>
+			<stop  offset="1" style="stop-color:hsla(198, 76%, 52%, 1);stop-opacity:0.7"/>
 		</linearGradient>
 		<path id="on-top-shadow" class="ai-creation-46" d="M116.1,83.3L105,89.8c0,0-0.6,1,1,1.8c0.1,0,0.2,0.1,0.2,0.1c0.1,0,0.2,0.1,0.3,0.1
 			c0.1,0.1,0.2,0.1,0.3,0.2c0.1,0.1,0.2,0.1,0.4,0.2c0.1,0.1,0.3,0.1,0.4,0.2s0.3,0.1,0.4,0.2s0.3,0.2,0.4,0.2
@@ -499,7 +499,7 @@
 				c-0.1-0.1-0.3,0-0.3,0.2v16.5C91.4,97.2,91.6,97.4,91.7,97.5z"/>
 
 				<linearGradient id="body_1_" gradientUnits="userSpaceOnUse" x1="-1282.0222" y1="60.8" x2="-1265.4771" y2="60.8" gradientTransform="matrix(-1 0 0 -1 -1173.9462 154)">
-				<stop  offset="3.299197e-07" style="stop-color:#feb607"/>
+				<stop  offset="3.299197e-07" style="stop-color:hsla(198, 76%, 52%, 1)"/>
 				<stop  offset="0.4987" style="stop-color:#3FA1FD"/>
 				<stop  offset="1" style="stop-color:#48C9FB"/>
 			</linearGradient>

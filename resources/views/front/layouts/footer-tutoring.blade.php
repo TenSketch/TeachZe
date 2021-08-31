@@ -5,7 +5,7 @@
                 <div class="col-lg-3 ml-lg-auto mb-5 mb-lg-0">
                     <div class="mb-4">
                         <a href="{{ route('tutoring.index') }}" aria-label="Front">
-                            <img src="/images/logos/logo-footer.png" alt="21kclass.com" width="176">
+                            <img src="/images/logos/TeachZe_logo-footer.png" alt="21kclass.com" width="176">
                         </a>
                     </div>
 
@@ -37,7 +37,7 @@
                     <h5 class="text-white font-size-1 text-cap">About Us</h5>
 
                     <ul class="nav nav-sm nav-x-0 nav-white flex-column">
-                        <li class="nav-item"><a class="nav-link" href="{{ route('tutoring.about-us.21k-group') }}">21K Group</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{ route('tutoring.about-us.21k-group') }}">TeachZe Team</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ route('tutoring.about-us.our-team') }}">Team</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ route('tutoring.connect.work-with-us') }}">Careers <span class="badge badge-primary ml-1
 ">We're hiring</span></a></li>

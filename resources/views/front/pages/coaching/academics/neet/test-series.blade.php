@@ -9,7 +9,7 @@
             <div class="container space-2 space-sm-3 space-md-4 min-vw-100" style="background-color: rgba(0, 0, 0, 0.45);">
                 <div class="w-xs-auto text-center">
                     <div class="mb-4">
-                        <h2 class="h1 text-white">21K NEET Test Series</h2>
+                        <h2 class="h1 text-white">TeachZe NEET Test Series</h2>
                     </div>
                 </div>
             </div>
@@ -18,7 +18,7 @@
         <!--
         <div class="container space-top-1 space-top-lg-2 space-bottom-1 space-bottom-lg-2">
             <div class="w-lg-80 text-center mx-lg-auto mb-5">
-                <h2 class="mb-3 mb-lg-5">21K NEET Test Series for Class XII Students</h2>
+                <h2 class="mb-3 mb-lg-5">TeachZe NEET Test Series for Class XII Students</h2>
             </div>
 
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">
@@ -69,7 +69,7 @@
             
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">
                 <p>Give your rank a boost by completing online mock tests. Get instant performance report and live doubt solving session with NEET Experts.</p>
-                <p>This 4 month test series pack is ideal for students who have almost completed their syllabus and would now want to brush up on their exam skills. This set of test series will help you build speed and strategy required to perform well on exam day. The test series is developed by 21K NEET Experts who are responsible for helping hundreds of students each year crack NEET. Their students have regularly scored 600+ scores on NEET and qualified for admission in the top medical colleges around the country. </p>
+                <p>This 4 month test series pack is ideal for students who have almost completed their syllabus and would now want to brush up on their exam skills. This set of test series will help you build speed and strategy required to perform well on exam day. The test series is developed by TeachZe NEET Experts who are responsible for helping hundreds of students each year crack NEET. Their students have regularly scored 600+ scores on NEET and qualified for admission in the top medical colleges around the country. </p>
             </div>
 
             <div class="w-md-90 w-lg-80 mx-md-auto mb-md-5">

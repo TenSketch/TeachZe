@@ -7,7 +7,7 @@
 	.logo-vertical-white-1{opacity:0.65;fill:#E1E4EA;}
 	.logo-vertical-white-2{opacity:0.5;fill:#FFFFFF;}
 	.logo-vertical-white-3{opacity:0.7;fill:#FFFFFF;}
-	.logo-vertical-white-4{fill:#feb607;}
+	.logo-vertical-white-4{fill:hsla(198, 76%, 52%, 1);}
 </style>
 <g>
 	<path class="logo-vertical-white-0" d="M1,87.1V58.9h18.3v5.2H7.8v6.1h8.6v5.2H7.8v11.7H1z"/>

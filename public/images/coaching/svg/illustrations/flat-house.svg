@@ -5,12 +5,12 @@
 <style type="text/css">
 	.flat-house-0{fill:#E7EAF3;}
   .flat-house-1{fill:#F8FAFD;}
-  .flat-house-2{fill:#feb607;}
+  .flat-house-2{fill:hsla(198, 76%, 52%, 1);}
   .st5{fill:#eaa200;}
   .flat-house-3{fill:#eaa200;}
   .flat-house-4{fill:#8C98A4;}
   .flat-house-5{fill:#BDC5D1;}
-  .flat-house-6{fill:#feb607;}
+  .flat-house-6{fill:hsla(198, 76%, 52%, 1);}
   .flat-house-7{fill:#DE4437;}
   .flat-house-8{fill:#FFFFFF;}
 </style>
